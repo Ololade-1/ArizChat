@@ -38,7 +38,7 @@ export default function App() {
 
         <Stack.Screen name="forgetpassword_enteremail" component={forgetpassword_enteremail} />
         <Stack.Screen name="forgetpassword_enterverificationcode" component={forgetpassword_enterverificationcode} />
-        <Stack.Screen name="forgetpassword_accountrecoverysuccessfully" component={forgetpassword_accountrecovered} />
+        <Stack.Screen name="forgetpassword_accountrecovered" component={forgetpassword_accountrecovered} />
         <Stack.Screen name="forgetpassword_choosepassword" component={forgetpassword_choosepassword} />
       
         <Stack.Screen name="mainpage" component={mainpage} />

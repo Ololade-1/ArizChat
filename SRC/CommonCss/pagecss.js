@@ -29,5 +29,14 @@ module.exports = {
         left:20,
         alignItems:'center',
     },
+    icon1:{
+        color: 'white',
+        fontsize: 30,
+    },
+    logo2:{
+        height: 30,
+        resizeMode: 'contain',
+        width: 100.
+    }
 
 };
